@@ -8,8 +8,8 @@
    <children>
       <SplitPane dividerPositions="0.2826086956521739" VBox.vgrow="ALWAYS">
         <items>
-            <Pane prefHeight="200.0" prefWidth="200.0" />
-            <Pane prefHeight="200.0" prefWidth="200.0" />
+            <Pane />
+            <Pane />
         </items>
       </SplitPane>
    </children>
