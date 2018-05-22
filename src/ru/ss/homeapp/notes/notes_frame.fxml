@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox VBox.vgrow="ALWAYS" xmlns="http://javafx.com/javafx/8.0.72" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <SplitPane dividerPositions="0.2826086956521739" VBox.vgrow="ALWAYS">
+        <items>
+            <Pane prefHeight="200.0" prefWidth="200.0" />
+            <Pane prefHeight="200.0" prefWidth="200.0" />
+        </items>
+      </SplitPane>
+   </children>
+</VBox>
